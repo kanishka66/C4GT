@@ -3,11 +3,11 @@
 <table>
   <tr>
     <td>Name</td>
-    <td>Kanishka </td>
+    <td>Shruti </td>
   </tr>
   <tr>
     <td>GitHub</td>
-    <td>https://github.com/Kanishka</td>
+    <td>https://github.com/</td>
   </tr>
   <tr>
     <td>LinkedIn</td>
