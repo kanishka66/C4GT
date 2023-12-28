@@ -3,11 +3,11 @@
 <table>
   <tr>
     <td>Name</td>
-    <td>Shruti Agarwal</td>
+    <td>Kanishka </td>
   </tr>
   <tr>
     <td>GitHub</td>
-    <td>https://github.com/Shruti3004</td>
+    <td>https://github.com/Kanishka</td>
   </tr>
   <tr>
     <td>LinkedIn</td>
@@ -55,4 +55,25 @@
     <td>Ashoka University</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Kanishka </td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Kanishka</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/kanishka-patwa-27599b260/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>NIT Kurukshetra</td>
+  </tr>
+</table>
+
+
 
